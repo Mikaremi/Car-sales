@@ -1,6 +1,6 @@
 # Car-sales
 This project contains an analysis of car sales data using SQL.
-During the analyis I answered various questions in accordance to the car sales data. The questions included:
+During the analysis I answered various questions in accordance to the car sales data. The questions included:
 * The total number of sales by make
 * Average sales price by make and model
 * The top 5 buzzwords used in the car listings
